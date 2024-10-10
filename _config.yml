@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bryce Kalmbach"
 title_separator          : "-"
 name                     : &name "Bryce Kalmbach"
-description              : &description "Research Scientist at University of Washington"
+description              : &description "Project Scientist at SLAC"
 url                      : https://jbkalmbach.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jbkalmbach/jbkalmbach.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Bryce Kalmbach"
-  avatar           : "bryce_rubin_zoom.png"
-  bio              : "Research Scientist at University of Washington"
+  avatar           : "brycek_500px.png"
+  bio              : "Project Scientist at SLAC"
   location         : "Seattle"
   ads              : "https://ui.adsabs.harvard.edu/public-libraries/Nf4WBI8ZSZeDltzT1hxQqw"
   employer         :
