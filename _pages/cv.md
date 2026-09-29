@@ -11,49 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, University of Washington, 2009
+* B.S. in Astronomy, University of Washington, 2009
+* Ph.D in Physics, University of Washington, 2019
+  * **Thesis**: Better Input, Better Output: Improving photometric redshifts by enhancing training data and optimizing observations
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 9/2024 - Present: Rubin Scheduler Software Engineer / Scheduler Software Scientist
+  * SLAC National Accelerator Laboratory
+  * Develop software and algorithms to support Rubin Observatory operations
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2/2022 - 9/2024: Research Scientist
+  * University of Washington, Department of Astronomy
+  * Software Engineering and Analysis for Rubin Observatory Active Optics System
+
+* 8/2019 - 2/2022: Postdoctoral Research Associate
+  * University of Washington, Department of Astronomy
+  * Support Rubin Observatory Commissioning with software and algorithm development
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2023 - 2026: Working Group Co-Convener
+  * LSST Dark Energy Science Collaboration Photometric Redshifts Working Group
+* 2024 - 2026: Chair
+  * LSST ISSC Membership Committee
+* 2019 - 2023: Working Group Co-Convener
+  * LSST Dark Energy Science Collaboration Photometric Redshifts Working Group
